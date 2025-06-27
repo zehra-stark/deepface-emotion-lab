@@ -92,7 +92,7 @@ A beginner-friendly AI project that detects **emotion** and **gender** from webc
 
 ---
 
-## 🌟 credits: 
+## 🌟 Credits: 
   👤 Zehra Stark  
   💡 Developer, Creator, and Documenter of this lab  
   💻 Project: DeepFace Emotion Detection Lab  
